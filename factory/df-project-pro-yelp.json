@@ -1,0 +1,9 @@
+{
+	"name": "df-project-pro-yelp",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e68b0ac9-8266-4ebb-a813-1920a0da906d",
+		"tenantId": "3187b180-06b4-4492-828b-3010195edbbf"
+	}
+}
